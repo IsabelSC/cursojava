@@ -12,7 +12,7 @@ public class Test {
 		System.out.println(a+b+c);
 		System.out.println(a*b*c);
 		System.out.println(c*d);
-
+		System.out.println("Area rectángulo: "+a*b);
 	}
 
 }
